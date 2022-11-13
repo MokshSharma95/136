@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+.object_name_label{
+    font-size: 20px;
+    font-weight: bold;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+    background-color: red;
+}
+#start_button_id{
+    margin-top: 10px;
+}
